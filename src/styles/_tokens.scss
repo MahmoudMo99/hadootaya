@@ -1,0 +1,26 @@
+:root {
+  // Brand Colors
+  --color-primary: #843d4c;
+  --color-primary-dark: #632b38;
+  --color-accent: #c7a270;
+
+  // Neutral Colors
+  --color-background: #f7f3eb;
+  --color-surface: #fffdf9;
+  --color-text: #22252a;
+  --color-text-muted: #716c69;
+  --color-border: #e7ded2;
+
+  // Typography
+  --font-ui: 'IBM Plex Sans Arabic', sans-serif;
+  --font-reading: 'Noto Naskh Arabic', serif;
+
+  // Layout
+  --container-width: 1200px;
+
+  // Border Radius
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 24px;
+  --radius-full: 999px;
+}
